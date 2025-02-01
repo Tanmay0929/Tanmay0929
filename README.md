@@ -9,12 +9,12 @@
 
 ## 🔬 Research & Projects  
 
-### 🚀 Graduate Research Scholar @ UMD Aerospace Department  
+### 🚀 Graduate Research Scholar @ UMD Aerospace Department (Jan 2024 - Till date) 
 🔹 **Project:** DARPA Triage Challenge  
 🔹 **Advisor:** Dr. Derek Paley  
 🔹 **Role:** Machine Learning & Dataset Management Lead  
 
-💡 **What I Do:**  
+💡 **Key Tasks:**  
 ✔ Manage **data collection events** & curate datasets for Team **RoboScout UMD**  
 ✔ Train & fine-tune **visual classifiers** to infer injury patterns in manikins/human actors  
 ✔ Optimize **ResNet, EfficientNet, and ViT** models for medical image classification  
