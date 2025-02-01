@@ -11,7 +11,7 @@
 
 ### 🚀 Graduate Research Scholar @ UMD Robotics Lab (Jan 2024 - Till date) 
 🔹 **Project:** Triage Challenge by **Defense Advanced Research Projects Agency (DARPA)**    
-🔹 **Advisor:** Dr. Derek Paley  
+🔹 **Advisor:** Dr. Derek Paley (Director, Maryland Robotics Center)  
 🔹 **Role:** Machine Learning & Dataset Management Lead  
 
 💡 **Key Tasks:**  
