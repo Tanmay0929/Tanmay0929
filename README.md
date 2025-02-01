@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Tanmay Pancholi  
 
 🚀 **Machine Learning | Automation | Computer Vision**  
-🎓 Master's in Robotics @ **University of Maryland, College Park**  
+🎓 M.Eng in Robotics @ **University of Maryland, College Park**  
 🔍 Actively seeking **full-time opportunities** in Robotics & AI  
 🤖 Passionate about **machine learning, perception, planning & autonomous systems**  
 
