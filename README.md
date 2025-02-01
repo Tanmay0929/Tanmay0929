@@ -42,7 +42,7 @@
 ---
 
 ## 🌍 Let's Connect!  
-📬 [Email](mailto:tamy2909@umd.edu) | 🔗 [LinkedIn]([Your_Linkedin](https://www.linkedin.com/in/tanmay-pancholi/)) | 🌐 [Portfolio](Your_Portfolio)  
+📬 [Email](mailto:tamy2909@umd.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/tanmay-pancholi/) | 🌐 [Portfolio](Your_Portfolio)  
 
 🚀 **Let’s build the future of AI-driven robotics together!**  
  
