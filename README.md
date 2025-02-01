@@ -9,8 +9,8 @@
 
 ## 🔬 Research & Projects  
 
-### 🚀 Graduate Research Scholar @ UMD Aerospace Department (Jan 2024 - Till date) 
-🔹 **Project:** DARPA Triage Challenge  
+### 🚀 Graduate Research Scholar @ UMD Robotics Lab (Jan 2024 - Till date) 
+🔹 **Project:** Triage Challenge by **Defense Advanced Research Projects Agency (DARPA)**    
 🔹 **Advisor:** Dr. Derek Paley  
 🔹 **Role:** Machine Learning & Dataset Management Lead  
 
