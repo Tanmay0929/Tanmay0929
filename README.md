@@ -32,10 +32,15 @@
 
 ---
 
-## 📌 Featured Projects  
-🔹 **[Project 1](GitHub_Link)** – Smart perception for robots (brief description)  
-🔹 **[Project 2](GitHub_Link)** – ML-powered traffic control using reinforcement learning  
-🔹 **[Project 3](GitHub_Link)** – 3D object detection with LiDAR and deep learning  
+## 📌 Featured Projects 
+🔹 **[BRUNO Quadruped Robot](https://github.com/Tanmay0929/Bruno_Quadruped_Sim)**  
+  *Designed a 12-DOF quadruped robot with ROS2 integration and LiDAR-based navigation.*  
+
+🔹 **[LQR and LQG Controller for Two Pendulum Crane System](https://github.com/Tanmay0929/Two_Pendulum_Crane)**  
+  *Developed controllers ensuring stability for a two-pendulum crane system using MATLAB simulations.*  
+
+🔹 **[TurtleBot Maze Navigation](https://github.com/Tanmay0929/A-star-Implementation-on-TurtleBot3_ENPM661)**  
+  *Implemented autonomous maze navigation for TurtleBot3 using ARUCO markers and ROS2.*  
 
 *(Check out more in the Repositories section!)*  
 
