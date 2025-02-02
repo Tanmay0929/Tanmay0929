@@ -36,8 +36,8 @@
 🔹 **[BRUNO Quadruped Robot](https://github.com/Tanmay0929/Bruno_Quadruped_Sim)**  
   *Designed a 12-DOF quadruped robot with ROS2 integration and LiDAR-based navigation.*  
 
-🔹 **[LQR and LQG Controller for Two Pendulum Crane System](https://github.com/Tanmay0929/Two_Pendulum_Crane)**  
-  *Developed controllers ensuring stability for a two-pendulum crane system using MATLAB simulations.*  
+🔹 **[VedasGPT](https://github.com/Tanmay0929/vedasGPT)**  
+  *Developed a conversational AI model fine-tuned on ancient Indian scriptures to provide insights and explanations.*
 
 🔹 **[TurtleBot Maze Navigation](https://github.com/Tanmay0929/A-star-Implementation-on-TurtleBot3_ENPM661)**  
   *Implemented autonomous maze navigation for TurtleBot3 using ARUCO markers and ROS2.*  
